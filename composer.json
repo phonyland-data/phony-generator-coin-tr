@@ -1,5 +1,5 @@
 {
-    "name": "phonyland/phony-generator-coin-tr",
+    "name": "phonyland-data/phony-generator-coin-tr",
     "description": "Coin Generator (tr) for \ud83d\ude43 Phony Framework",
     "license": "MIT",
     "type": "phony-generator-data",
